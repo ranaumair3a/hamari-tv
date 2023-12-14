@@ -17,3 +17,11 @@ Hamari TV is not just an app; it's a visual feast! Immerse yourself in the world
 - **Jazz SIM card:** 📡 80+ channels, 500+ movies, and more for free.
 - **Zong SIM card:** 📶 Access 50+ channels seamlessly.
 - **Data Connection:** 🌐 Explore sports, cricket, Indian TV channels, Pakistani TV channels, and more with data charges.
+
+
+## 🌐 Connect with Us
+
+- **Telegram:** 📣 [t.me/rumair3](https://t.me/rumair3)
+- **WhatsApp Channel:** 📲 [Join Now](https://whatsapp.com/channel/0029Va6LxJC7YSdBAvxkPE2A)
+- **YouTube Channel:** ▶️ [youtube.com/@r_umair3](https://youtube.com/@r_umair3)
+- **Website:** 🌐 [hamaritv.tk](https://hamaritv.tk)
