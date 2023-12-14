@@ -1,25 +1,27 @@
-# Hamari TV App
+# Hamari TV App v2.0 📺✨
 
 🌟 **Welcome to Hamari TV!** 🌟
 
-Hamari TV is a vibrant live streaming app where users can enjoy free live channels on Jazz and Zong SIM. Dive into a world of entertainment with our diverse features, including movies and more.
+Hamari TV is not just an app; it's a visual feast! Immerse yourself in the world of entertainment with an incredible lineup:
 
 ## 🚀 Features
 
-- **Live Streaming:** Watch your favorite channels for free on Jazz and Zong SIM.
-- **Data Delight:** Access a variety of channels using your data connection.
-- **Diverse Content:** Explore movies and other exciting features.
+- **Live Streaming Wonderland:** 🎉 Enjoy 80+ channels and 500+ movies for free on Jazz!
+- **Zong Extravaganza:** 🚀 Access 50+ channels seamlessly on Zong.
+- **Data Delight:** 📱 Explore sports 🏏, cricket, Indian TV channels 🇮🇳, Pakistani TV channels 🇵🇰, and more without any data charges.
+- **Version 2.0 Delivers:** 🌈 The latest and greatest features for an enhanced entertainment experience.
 
 ## 🌈 Getting Started
 
-1. **Clone the repository:** `git clone https://github.com/ranaumair3a/Hamari-Tv.git`
-2. **Install dependencies:** `npm install` or `yarn install`
-3. **Run the app:** `npm start` or `yarn start`
+1. **Clone the repository:** 🌀 `git clone https://github.com/your-username/hamari-tv-app.git`
+2. **Install dependencies:** ⚙️ `npm install` or `yarn install`
+3. **Run the app:** ▶️ `npm start` or `yarn start`
 
 ## 🎯 Requirements
 
-- **Jazz or Zong SIM:** Enjoy free live channels.
-- **Data Connection:** Explore additional channels and features.
+- **Jazz SIM card:** 📡 80+ channels, 500+ movies, and more for free.
+- **Zong SIM card:** 📶 Access 50+ channels seamlessly.
+- **Data Connection:** 🌐 Explore sports, cricket, Indian TV channels, Pakistani TV channels, and more without any data charges.
 
 ## 🤝 Contributing
 
