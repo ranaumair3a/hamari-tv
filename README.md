@@ -11,11 +11,6 @@ Hamari TV is not just an app; it's a visual feast! Immerse yourself in the world
 - **Data Delight:** 📱 Explore sports 🏏, cricket, Indian TV channels 🇮🇳, Pakistani TV channels 🇵🇰, and more with data charges.
 - **Version 2.0 Delivers:** 🌈 The latest and greatest features for an enhanced entertainment experience.
 
-## 🌈 Getting Started
-
-1. **Clone the repository:** 🌀 `git clone https://github.com/ranaumair3a/Hamari-Tv.git`
-2. **Install dependencies:** ⚙️ `npm install` or `yarn install`
-3. **Run the app:** ▶️ `npm start` or `yarn start`
 
 ## 🎯 Requirements
 
